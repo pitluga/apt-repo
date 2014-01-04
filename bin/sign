@@ -1,0 +1,3 @@
+#!/bin/bash
+
+dpkg-sig --sign builder $1
