@@ -1,0 +1,24 @@
+Package: mesos
+Priority: extra
+Section: misc
+Installed-Size: 122132
+Maintainer: mesos-dev@incubator.apache.org
+Architecture: amd64
+Version: 0.15.0-rc5
+Depends: java7-runtime-headless | java6-runtime-headless, libcurl3
+Recommends: zookeeper, zookeeperd, zookeeper-bin
+Filename: ./dists/stable/main/binary/mesos_0.15.0-rc5_amd64.deb
+Size: 32328892
+MD5sum: ecb163bc83a2b95a151d5497eb8670eb
+SHA1: fd428e5359e60a2632e3d9161d785fbddd618228
+SHA256: 4c9a66807cab416f5ed7f4a69dd3f2e040c04ebe5fa75ca7303135eb03c78b2c
+SHA512: 4c5c20a6bed335bbf30e17716044a06016d4f927e693b2b5fdc67d5a86338bf0a2cdb643e18a14bb6a5e6f12bf863b6d790097d958e5128c701ac5324254ec5d
+Description: Cluster resouce manager with efficient resource isolation
+ Apache Mesos is a cluster manager that offers efficient resource isolation
+ and sharing across distributed applications, or frameworks. It can run
+ Hadoop, MPI, Hypertable, Spark (a new framework for low-latency interactive
+ and iterative jobs), and other applications.
+License: unknown
+Vendor: 
+Homepage: http://incubator.apache.org/mesos/
+

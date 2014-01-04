@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Date: Sat, 04 Jan 2014 23:31:23 UTC
+MD5Sum:
+ 1ec787acc7fcb5547ce0aa64802ad250             1058 Packages
+ b8383ba0729203c1412161a46bd37247              692 Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e                0 Release
+SHA1:
+ e00e297ca4a9759254a9154e7f35d7431c68878a             1058 Packages
+ 40ff5bed5a9364705ad70aeccc396a42adbf6050              692 Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Release
+SHA256:
+ df4bbd530e28ce952d8f9bffcf0bded431d85485045bcf3f8f0a86bb1b9d6a29             1058 Packages
+ 28ed032c9aab65a949d157392526a27f0bba43ee9511e0ef776756f8776a5eda              692 Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Release
+SHA512:
+ 819831431b5af839ff8df2827dab97ddf7f0efb8585abb1bb053401675f81ce20a78e1e4a9ee9c03ccd75cb0943dc80ede0e4aede010b38976904b28a2a87f01             1058 Packages
+ c7c17092634166a3aebf1be8e8ebfef7d18353fc3105b0b5f1112be4c5a5fcec7091c067702c97051e9565d27a9d6aa475451f1e22eeb98bdb4c364f2379e912              692 Packages.gz
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQIcBAEBAgAGBQJSyJnLAAoJEC/Umf/g5iwG4d0QAJQTmsDDYmmAOGWwgbayYwFY
+kQauvvmhxCLu6ynwI7d+QAUCoCRi+IyFt8DxV19cryLaI0DNSAeNbaC41JeH8BCB
+uFutvSnmLjoAKvlTg16mKiVUcu4wBhoT9VqoNFyoeTYDdsvpSgQzU+eWPLIe0i3R
+MVUOGyO4NjTCjzQiRNpU+2y34JAy9V6i7kC0R+WVVDbaZJx4IXzlJlD4A3nayaQx
+dOBH0bORjhX0sPKhzfcEurfONOZ4qAThTvteo3jfXqK80an2/pgX17sntxnd84pl
+R9514jwzqD14K+r7vNBNop2160S27qZcZINQPDBgnSOHSoapbKS96jhCjejqntzx
+OkUpSX0XhuI3kLok7ZoKcn6EhMbYcM2EXEjBPzdi/bZuQDs9FTQheWo4GwWQWbwf
+YXBzoD3UljG3BVQfva1y8AfNPcuzGdHD09plPPZbiaFxictLsK6/OodPwGT45QvI
+8Q/1FKuCSJH/WOxnVHprjFnoqLKABZ6NZOOqVHZwHycLVvupn4kxpFgpFD6RfGha
+aB+Qu7p0WqMBXsqgduPCLhEUtKHfFqqyugG9F2evmVeIyub61O6g6mswEcoDjRZI
+g4gGeluvXTPlx2vCcuZsBQ1jeCvM9AzlBCkVJ5oqQIQ4WYVIX0QVDQwjbx/HFOBg
+Y+K51EsEiVLsm8uxTsob
+=929x
+-----END PGP SIGNATURE-----
