@@ -22,3 +22,21 @@ License: unknown
 Vendor: 
 Homepage: http://incubator.apache.org/mesos/
 
+Package: marathon
+Priority: extra
+Section: default
+Installed-Size: 46496
+Maintainer: <root@ip-10-43-146-9>
+Architecture: amd64
+Version: 0.2.2-SNAPSHOT
+Filename: ./dists/stable/main/binary/marathon_0.2.2_noarch.deb
+Size: 42746180
+MD5sum: 91fd154d0682cf5777ba42c40fbf49b8
+SHA1: ad83df007ac043f757cb41d271c9ace4e36f17e5
+SHA256: 5a611a0457d6d0033ae13e7c27537b44229a6432db56e274704197f40b8bec10
+SHA512: 9d141475bf2d2f71f6e85b204bba7d04412bc420b2ad6ae708ca66289e4e48a9a044f3628c90388446533ebc640f56f588cbfa7dbb2e77532e5bfbaf2c370f64
+Description: no description given
+License: unknown
+Vendor: root@ip-10-43-146-9
+Homepage: http://example.com/no-uri-given
+
